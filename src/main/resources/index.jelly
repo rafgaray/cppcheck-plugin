@@ -1,6 +1,6 @@
 <?jelly escape-by-default='true'?>
 <div>
     This plug-in collects the
-    <a href="http://cppcheck.wiki.sourceforge.net/">Cppcheck</a>
+    <a href="http://cppcheck.sourceforge.net/">Cppcheck</a>
     analysis results of the project and visualizes the found errors.
 </div>
